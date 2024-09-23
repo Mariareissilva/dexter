@@ -1,3 +1,4 @@
 body{
     background-image: url("./dexter-serie\ \(1\).jpg");
+    background-size: contain;
 }
