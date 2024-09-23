@@ -5,3 +5,7 @@ body{
 .conteudo{
     display: flex;
 }
+.cartao{
+    background-color: #8D1111;
+    margin: 1rem 1rem;
+}
