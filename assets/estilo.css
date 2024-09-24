@@ -4,6 +4,7 @@ body{
 }
 .conteudo{
     display: flex;
+    padding: 50px;
     justify-content: space-between;
 }
 .cartao{
@@ -11,4 +12,5 @@ body{
     margin: 1rem 1rem;
 width: 412px ;
     flex-basis: calc(50% - 6rem);
+    text-align: center;
 }
