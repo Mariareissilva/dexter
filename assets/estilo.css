@@ -4,10 +4,12 @@ body{
 }
 .conteudo{
     display: flex;
+    padding: 50px;
+    justify-content: space-between;
 }
 .cartao{
     background-color: #8D1111;
     margin: 1rem 1rem;
-    flex-grow: 1;
+width: 412px 214px;
     flex-basis: calc(50% - 6rem);
 }
