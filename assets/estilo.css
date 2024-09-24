@@ -14,3 +14,9 @@ width: 412px ;
     flex-basis: calc(50% - 6rem);
     text-align: center;
 }
+.cartao p{
+  font-size: 15px;
+  margin-top: 1rem;
+  padding: 2rem;
+
+}
