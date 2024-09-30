@@ -18,7 +18,13 @@ body{
 width: 412px ;
     flex-basis: calc(50% - 6rem);
     text-align: center;
+    }
+
+.cartao:hover {
+background-color: #8D1111;
+
 }
+
 .cartao p{
   font-size: 22px;
   margin-top: 1rem;
@@ -36,8 +42,5 @@ footer{
   bottom: 0;
   text-align: center;
   align-content: center;
-
-
-
 
 }
