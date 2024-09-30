@@ -13,12 +13,19 @@ body{
     justify-content: space-between;
 }
 .cartao{
-    background-color: #8D1111;
+   
+    
     margin: 1rem 1rem;
 width: 412px ;
     flex-basis: calc(50% - 6rem);
     text-align: center;
     }
+
+.cartao--conteudo {
+
+    background-color: #8D1111;
+}
+
 
 .cartao:hover {
 background-color: white;
