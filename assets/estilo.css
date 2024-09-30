@@ -24,11 +24,13 @@ width: 412px ;
 .cartao--conteudo {
 
     background-color: #8D1111;
+   
 }
 
 
-.cartao:hover {
+.cartao:hover .cartao--conteudo {
 background-color: white;
+transform: rotateY(180deg);
 
 }
 
