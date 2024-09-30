@@ -30,7 +30,7 @@ width: 412px ;
 
 
 .cartao:hover .cartao--conteudo {
-background-color: white;
+background-color: #A60000;
 transform: rotateY(180deg);
 
 }
