@@ -4,4 +4,4 @@ console.log ("testando cartao")
 
 }
 
-criaCartao()
+criaCartao(1,2)
