@@ -1,1 +1,7 @@
-alert("Se quiser sim!!")
+function criaCartao(pergunta, resposta){
+console.log ("testando cartao")
+
+
+}
+
+criaCartao()
