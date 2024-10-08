@@ -1,7 +1,7 @@
 function criaCartao(pergunta, resposta){
 let conteudo = document.getElementById ('conteudo')
  let cartao = document.createElement('article')
- cartao.Classname = 'cartao'
+ cartao.classNameame = 'cartao'
  console.log(cartao)
 }
 
