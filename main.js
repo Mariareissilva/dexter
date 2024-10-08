@@ -1,7 +1,5 @@
 function criaCartao(pergunta, resposta){
-console.log (pergunta, resposta)
-
+let conteudo = document.getElementById ('conteudo')
 
 }
 
-criaCartao(1,2)
