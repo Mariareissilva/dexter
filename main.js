@@ -12,6 +12,22 @@ cartao.innerHTML = `
 console.log(cartao)
 conteudo.appendChild(cartao)
 
+  let respostaEstaVisivel = false
+function viracartao(){
+    
+    respostaEstaVisivel = !respostaEstaVisivel
+    cartao.classList.toggle('active',respostaEstaVisivel)
+    
+
+}
+
+cartao.addEventListener('click', viracartao)
+conteudo.appendChild(cartao)
+
+
+
+
+
 
 }
 
