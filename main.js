@@ -10,5 +10,8 @@ cartao.innerHTML = `
 </div>
 `
 console.log(cartao)
+conteudo.appendChild(cartao)
+
+
 }
 
