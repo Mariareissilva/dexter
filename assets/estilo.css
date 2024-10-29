@@ -30,7 +30,7 @@ width: 412px ;
 }
 
 
-.cartao:active .cartao--conteudo {
+.cartao.active .cartao--conteudo {
 background-color: white;
 transform: rotateY(180deg);
 
